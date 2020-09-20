@@ -1,62 +1,17 @@
-Package: com.anonymousx.dlgmemorinjected
-Version: 11.3.1
+Package: com.4tg.s1.vn
+Version: 2307-86d66c26-VN-93
 Architecture: iphoneos-arm
-Maintainer: AnonymousxiosdeV
-Installed-Size: 716
-Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/dlgmemorinjectedios12.deb
-Size: 200994
-MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
-SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
-SHA256: adb9f8b7bce323b6104b163e3e6dd1b750ae19bdb014847e0872f1aa2e974f97
-Section: Tool
-Description: Injection library that allows you to alter memory in app.
-Author: AnonymousxiosdeV
-Name: DLGMemor Injected
-
-Package: com.magicz.slider
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: magicz.info
-Installed-Size: 156
+Maintainer: 4TG
+Installed-Size: 7597
 Depends: mobilesubstrate
-Filename: ./debs/com.magicz.slider_0.17.deb
-Size: 17606
-MD5sum: 25a7bf2abf2756413e2efd1bdf5dc18e
-SHA1: d3bf73e55a51f3ffa712ca6b5e4e264ef581d560
-SHA256: f3b1d77fe168907c22bae687bbe10481e46352baba8837c75fc7a8c7a00b9e4c
-Section: MAGIC.Games
-Description: SLIDER FOR GLOBAL-VNG-KOREAN
-Author: magicz.info
-Name: PUBG SLIDER 0.17.0(3 version)
-
-Package: com.pubgslidersmall.magicz
-Version: 0.16.0
-Architecture: iphoneos-arm
-Maintainer: Magicz
-Depends: mobilesubstrate
-Filename: ./debs/com.smallslider.magicz.deb
-Size: 27058
-MD5sum: 3574bb754947267c402a10992a5ee961
-SHA1: 7ad8ec11f4dbda38f7964a8281e9aa31bb96f081
-SHA256: b237b83d903ae4fe833de7198580bd7df8c49d105571cd29c6244a792fbe7ab7
-Section: MAGIC.Tweaks
-Description: PUBG slider
-Author: MAGICZ
-Name: Pubg Slider 0.16.0
-
-Package: com.pubgslidersmall.magicz
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: Magicz.info
-Depends: mobilesubstrate
-Filename: ./debs/com.magicz.smallslider_0.17.0.deb
-Size: 27074
-MD5sum: 761345daf1e6b699dc4559d010b88519
-SHA1: 8414d2a64fb03487bd455788de25c7714d810579
-SHA256: 68a4e96f50eedfc3a8cc00ef8a970f863376caee60f7fab99486c498954c53d3
-Section: MAGIC.Games
-Description: SMALL SLIDER FOR 3 version
-Author: Magicz.info
-Name: PUBG SMALL SLIDER 0.17
+Filename: /Users/catalina-admin/4tgamingvip.github.io/debs/com.4tg.s1.vn.deb
+Size: 2664750
+MD5sum: a923457af401b1b060a50d96addbd77b
+SHA1: 1d4e56529e05bcc8d5f2f0c046a571f9b7339b7d
+SHA256: f3bc3f8d1d3352ef56f91e00f29de53ffaac3a3a6a9202d71c7d138b1fe75ba0
+Section: ESP
+Homepage: shop4tg.com
+Description: 4TG PUBGM VN 1.0.0 region: VN
+Author: 4TG
+Name: 4Tg PUBGM VN 1.0.0
 

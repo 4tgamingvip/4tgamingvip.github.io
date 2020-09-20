@@ -67,57 +67,57 @@ Name: PUBG SMALL SLIDER 0.17
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.magicz.smallslider_0.17.0
 
 Package: com.4tg.s1.global
-Version: 2272-d61b5cb0-GLOBAL-93
+Version: 2305-9d43a92d-GLOBAL-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7564
+Installed-Size: 7597
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.global.deb
-Size: 2650026
-MD5sum: 27df5fec33fa8803eb685f4459888dc1
-SHA1: 0978282d00bf4f7025470dc58ec25c1b8ff04d4d
-SHA256: 7908d17c0085f841d80522479a2bc12ccbf694db78986d3915fac8fd306b5843
+Size: 2665034
+MD5sum: 5b6543020dbb21dcb8bc66edc7c3be55
+SHA1: 60edbe21b1647ee1fb7105931b990975b40d099f
+SHA256: bf9186b2c4226329abd8a67e5e07b5237917e44a45111ff9bc35d0c90843745e
 Section: ESP
 Homepage: https://shop4t.com
-Description: 4TG PUBGM 1.0.0 region: GLOBAL
+Description: 4Tg PUBGM 1.0.0 region: GLOBAL
 Author: 4TG
 Name: 4TG PUBGM 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.global
 
 Package: com.4tg.s1.kr
-Version: 2256-994392e9-KR-93
+Version: 2307-86d66c26-KR-93
 Architecture: iphoneos-arm
-Maintainer: Cheto
-Installed-Size: 7482
+Maintainer: 4TG
+Installed-Size: 7597
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.kr.deb
-Size: 2633970
-MD5sum: 5788247f9c52611a626301638d319f35
-SHA1: 15e0a47b098f81fcf62ecb33352c6690cc6e7289
-SHA256: 0958743e88fdc4f1f7618abbb45638a72ef6e3b807748a12f37995191129bde2
+Size: 2664182
+MD5sum: 4209a994aa9552303b48d27513e74151
+SHA1: d06924b982c7054180c3ea5603da7af5600f07d2
+SHA256: 8ef97d4f300b8cb6fc00f4f2d81a16b97bc27c49c640739cfab0bc88f18c13dd
 Section: ESP
-Homepage: https://shop4t.com
+Homepage: https://www.SHOP4t.com
 Description: 4TG 배틀그라운드 1.0.0 region: KR
-Author: Cheto
-Name: 4TG KOREAN 1.0.0
+Author: 4TG
+Name: 4TG 배틀그라운드 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.kr
 
 Package: com.4tg.s1.vn
-Version: 2256-994392e9-VN-93
+Version: 2307-86d66c26-VN-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7482
+Installed-Size: 7597
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.vn.deb
-Size: 2633780
-MD5sum: 909ad053ced133682d0beb3f3d7a3a55
-SHA1: 05e585093de64596308f4d5ade9d7f6dc9fdfa06
-SHA256: 263e9e6187b2516344e095dc192509123a228e937a42516a957f71f7439f2fe4
+Size: 2664750
+MD5sum: a923457af401b1b060a50d96addbd77b
+SHA1: 1d4e56529e05bcc8d5f2f0c046a571f9b7339b7d
+SHA256: f3bc3f8d1d3352ef56f91e00f29de53ffaac3a3a6a9202d71c7d138b1fe75ba0
 Section: ESP
-Homepage: https://shop4t.com
+Homepage: shop4tg.com
 Description: 4TG PUBGM VN 1.0.0 region: VN
 Author: 4TG
-Name: 4TG PUBGM VN 1.0.0
+Name: 4Tg PUBGM VN 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.vn
 
 
