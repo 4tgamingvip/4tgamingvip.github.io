@@ -67,19 +67,19 @@ Name: PUBG SMALL SLIDER 0.17
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.magicz.smallslider_0.17.0
 
 Package: com.4tg.s1.global
-Version: 2305-9d43a92d-GLOBAL-93
+Version: 2353-47d713c2-GLOBAL-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7597
+Installed-Size: 7629
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.global.deb
-Size: 2665034
-MD5sum: 5b6543020dbb21dcb8bc66edc7c3be55
-SHA1: 60edbe21b1647ee1fb7105931b990975b40d099f
-SHA256: bf9186b2c4226329abd8a67e5e07b5237917e44a45111ff9bc35d0c90843745e
+Size: 2669098
+MD5sum: 83fbcaff3e1a2f0ce6b959e43c38bdf8
+SHA1: ab347497c33a42634df347e4365492047b634c2e
+SHA256: ba2edc59602386ac8f703c7aebbb963ae03db68ce8cf6de2b66280222d2f691d
 Section: ESP
-Homepage: https://shop4t.com
-Description: 4Tg PUBGM 1.0.0 region: GLOBAL
+Homepage: https://www.SHOP4t.com
+Description: 4TG PUBGM 1.0.0 region: GLOBAL
 Author: 4TG
 Name: 4TG PUBGM 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.global
