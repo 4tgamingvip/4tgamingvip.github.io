@@ -1,17 +1,17 @@
-Package: com.4tg.s1.global
-Version: 2465-d35f7157-GLOBAL-93
+Package: com.4tg.s1.vn
+Version: 2576-8d2e51fa-VN-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7662
+Installed-Size: 7678
 Depends: mobilesubstrate
-Filename: /Users/catalina-admin/4tgamingvip.github.io/debs/com.4tg.s1.global.deb
-Size: 2690784
-MD5sum: e1939d0d0eee3986ba2f4eab3a0ef3a5
-SHA1: 223b1d3ee3369143d6bc19274a3a126dcab27823
-SHA256: 4deb70eee863bb712f613c3a48fd10d1e70bd82a419f4a9032a048d4b004d9e7
+Filename: /Users/catalina-admin/4tgamingvip.github.io/debs/com.4tg.s1.vn.deb
+Size: 2697008
+MD5sum: 065ad16c1fb43751e32891d71afcf6d4
+SHA1: bcbefd3ad1221df7258efb252e6982fc74dfcac3
+SHA256: 43bfaedd40d804986bc110b621b775f03a433e40c3e53c38ed6fc37fe063b6cc
 Section: ESP
 Homepage: https://www.shop4t.com
-Description: 4TG PUBGM 1.0.0 region: GLOBAL
+Description: 4TG PUBGM VN 1.0.0 region: VN
 Author: 4TG
-Name: 4TG PUBGM 1.0.0
+Name: 4TG PUBGM VN 1.0.0
 

@@ -1,82 +1,14 @@
-Package: com.anonymousx.dlgmemorinjected
-Version: 11.3.1
-Architecture: iphoneos-arm
-Maintainer: AnonymousxiosdeV
-Installed-Size: 716
-Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/dlgmemorinjectedios12.deb
-Size: 200994
-MD5sum: 20c6e6b1d51d0c2d22be495c2b6d9c19
-SHA1: 1b394f410c30a50efe41e839fbbcb704e2692882
-SHA256: adb9f8b7bce323b6104b163e3e6dd1b750ae19bdb014847e0872f1aa2e974f97
-Section: Tool
-Description: Injection library that allows you to alter memory in app.
-Author: AnonymousxiosdeV
-Name: DLGMemor Injected
-Depiction: http://4tgamingvip.github.io/depictions/?p=dlgmemorinjectedios12
-
-Package: com.magicz.slider
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: magicz.info
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.magicz.slider_0.17.deb
-Size: 17606
-MD5sum: 25a7bf2abf2756413e2efd1bdf5dc18e
-SHA1: d3bf73e55a51f3ffa712ca6b5e4e264ef581d560
-SHA256: f3b1d77fe168907c22bae687bbe10481e46352baba8837c75fc7a8c7a00b9e4c
-Section: MAGIC.Games
-Description: SLIDER FOR GLOBAL-VNG-KOREAN
-Author: magicz.info
-Name: PUBG SLIDER 0.17.0(3 version)
-Depiction: http://4tgamingvip.github.io/depictions/?p=com.smallslider.magicz
-
-
-Package: com.pubgslidersmall.magicz
-Version: 0.16.0
-Architecture: iphoneos-arm
-Maintainer: Magicz
-Depends: mobilesubstrate
-Filename: ./debs/com.smallslider.magicz.deb
-Size: 27058
-MD5sum: 3574bb754947267c402a10992a5ee961
-SHA1: 7ad8ec11f4dbda38f7964a8281e9aa31bb96f081
-SHA256: b237b83d903ae4fe833de7198580bd7df8c49d105571cd29c6244a792fbe7ab7
-Section: MAGIC.Tweaks
-Description: PUBG slider
-Author: MAGICZ
-Name: Pubg Slider 0.16.0
-Depiction: http://4tgamingvip.github.io/depictions/?p=com.smallslider.magicz
-
-
-Package: com.pubgslidersmall.magicz
-Version: 0.17.0
-Architecture: iphoneos-arm
-Maintainer: Magicz.info
-Depends: mobilesubstrate
-Filename: ./debs/com.magicz.smallslider_0.17.0.deb
-Size: 27074
-MD5sum: 761345daf1e6b699dc4559d010b88519
-SHA1: 8414d2a64fb03487bd455788de25c7714d810579
-SHA256: 68a4e96f50eedfc3a8cc00ef8a970f863376caee60f7fab99486c498954c53d3
-Section: MAGIC.Games
-Description: SMALL SLIDER FOR 3 version
-Author: Magicz.info
-Name: PUBG SMALL SLIDER 0.17
-Depiction: http://4tgamingvip.github.io/depictions/?p=com.magicz.smallslider_0.17.0
-
 Package: com.4tg.s1.global
-Version: 2465-d35f7157-GLOBAL-93
+Version: 2576-8d2e51fa-GLOBAL-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7662
+Installed-Size: 7678
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.global.deb
-Size: 2690784
-MD5sum: e1939d0d0eee3986ba2f4eab3a0ef3a5
-SHA1: 223b1d3ee3369143d6bc19274a3a126dcab27823
-SHA256: 4deb70eee863bb712f613c3a48fd10d1e70bd82a419f4a9032a048d4b004d9e7
+Size: 2698868
+MD5sum: 076b791622d8f6e5bcff29672b5bf79d
+SHA1: 13ae7f5c2a8395b58f4d6db49dbd35abf69ad363
+SHA256: a9d34999a03fa031e501607dfd31846cba072d9a7218352cc36a6949fb6ac841
 Section: ESP
 Homepage: https://www.shop4t.com
 Description: 4TG PUBGM 1.0.0 region: GLOBAL
@@ -85,39 +17,39 @@ Name: 4TG PUBGM 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.global
 
 Package: com.4tg.s1.kr
-Version: 2307-86d66c26-KR-93
+Version: 2526-e9b5d617-KR-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7597
+Installed-Size: 7678
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.kr.deb
-Size: 2664182
-MD5sum: 4209a994aa9552303b48d27513e74151
-SHA1: d06924b982c7054180c3ea5603da7af5600f07d2
-SHA256: 8ef97d4f300b8cb6fc00f4f2d81a16b97bc27c49c640739cfab0bc88f18c13dd
+Size: 2696766
+MD5sum: fad1f77e48b4addb75a42ecf66297188
+SHA1: fe8a4fb6a571a3109d6333df7098ca77f1762986
+SHA256: 0c0513c668335a233741448f5530556886a0960ce6f4084533cb4d972e31bb78
 Section: ESP
-Homepage: https://www.SHOP4t.com
+Homepage: https://www.shop4t.con
 Description: 4TG 배틀그라운드 1.0.0 region: KR
 Author: 4TG
 Name: 4TG 배틀그라운드 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.kr
 
 Package: com.4tg.s1.vn
-Version: 2307-86d66c26-VN-93
+Version: 2576-8d2e51fa-VN-93
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7597
+Installed-Size: 7678
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.vn.deb
-Size: 2664750
-MD5sum: a923457af401b1b060a50d96addbd77b
-SHA1: 1d4e56529e05bcc8d5f2f0c046a571f9b7339b7d
-SHA256: f3bc3f8d1d3352ef56f91e00f29de53ffaac3a3a6a9202d71c7d138b1fe75ba0
+Size: 2697008
+MD5sum: 065ad16c1fb43751e32891d71afcf6d4
+SHA1: bcbefd3ad1221df7258efb252e6982fc74dfcac3
+SHA256: 43bfaedd40d804986bc110b621b775f03a433e40c3e53c38ed6fc37fe063b6cc
 Section: ESP
-Homepage: shop4tg.com
+Homepage: https://www.shop4t.com
 Description: 4TG PUBGM VN 1.0.0 region: VN
 Author: 4TG
-Name: 4Tg PUBGM VN 1.0.0
+Name: 4TG PUBGM VN 1.0.0
 Depiction: http://4tgamingvip.github.io/depictions/?p=com.4tg.s1.vn
 
 
