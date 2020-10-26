@@ -1,14 +1,14 @@
 Package: com.4tg.s1.global
-Version: 2576-8d2e51fa-GLOBAL-93
+Version: 2612-6cdaf663-GLOBAL-18
 Architecture: iphoneos-arm
 Maintainer: 4TG
-Installed-Size: 7678
+Installed-Size: 7710
 Depends: mobilesubstrate
 Filename: ./debs/com.4tg.s1.global.deb
-Size: 2698868
-MD5sum: 076b791622d8f6e5bcff29672b5bf79d
-SHA1: 13ae7f5c2a8395b58f4d6db49dbd35abf69ad363
-SHA256: a9d34999a03fa031e501607dfd31846cba072d9a7218352cc36a6949fb6ac841
+Size: 2705152
+MD5sum: 234f2250ab00b2235edc834d306529e1
+SHA1: 9bd9b95318453c914a1dc1c5cf1863de304ff735
+SHA256: 85ded0cb7bd4e363a2f9a1e0279bf53b7250525ae499d6ec219ffbe2f9aab54c
 Section: ESP
 Homepage: https://www.shop4t.com
 Description: 4TG PUBGM 1.0.0 region: GLOBAL
